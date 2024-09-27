@@ -1,6 +1,6 @@
 # 📝 Text Summarization Tool
 
-This is a web application for summarizing long pieces of text using **Extractive** and **Abstractive** methods. Built with **Streamlit**, it allows users to input text and receive a summarized version efficiently.
+This is a web application for summarizing long pieces of text using **Extractive** and **Abstractive** methods. Built with **Streamlit**, it allows users to input text and receive a summarized version efficiently. You can try the tool using this [link](https://butter-sauce.streamlit.app).
 
 ## Features
 
