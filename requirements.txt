@@ -1,0 +1,8 @@
+nltk==3.8.1
+networkx
+streamlit
+scikit-learn
+transformers
+numpy
+pandas
+torch
