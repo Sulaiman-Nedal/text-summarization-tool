@@ -52,17 +52,6 @@ Install the required Python packages using `pip`:
 pip install -r requirements.txt
 ```
 
-**Note:** Ensure that you have the correct versions of the packages to avoid compatibility issues. The key dependencies are:
-
-- `nltk==3.8.1`
-- `networkx`
-- `streamlit`
-- `scikit-learn`
-- `transformers`
-- `numpy`
-- `pandas`
-- `torch`
-
 #### 4. Download NLTK Data
 
 Download the necessary NLTK data files:
