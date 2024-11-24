@@ -113,7 +113,7 @@ streamlit run app.py
   - `numpy`
   - `pandas`
   - `scikit-learn`
-  - `networkx==3.0`
+  - `networkx`
   - `transformers`
   - `torch`
   - `networkx`
