@@ -55,7 +55,7 @@ pip install -r requirements.txt
 **Note:** Ensure that you have the correct versions of the packages to avoid compatibility issues. The key dependencies are:
 
 - `nltk==3.8.1`
-- `networkx==3.0`
+- `networkx`
 - `streamlit`
 - `scikit-learn`
 - `transformers`
